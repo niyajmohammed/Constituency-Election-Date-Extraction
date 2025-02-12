@@ -7,7 +7,7 @@ Converts PDF pages to images, Uses Tesseract OCR for text extraction, Extracts c
 **Prerequisites**
 Ensure you have the following installed:
 -Python 3.x
--Tesseract OCR (Download from this link: "https://github.com/tesseract-ocr/tesseract")
+-Tesseract OCR (Download from this link: "https://github.com/UB-Mannheim/tesseract/wiki"), download file: "tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)"
 Download this software and locate it in your "C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 **Required Python libraries:**
